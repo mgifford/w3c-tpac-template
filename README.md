@@ -4,6 +4,8 @@ Unsure why this isn't in the W3C Repo. I've copied the [zip file from the Templa
 ## My copy of the template
 [Overview.html](https://mgifford.github.io/w3c-tpac-template/Templates/Overview.html)
 
+The presentation starts with an overview. To start the presentation, press play (at the bottom).
+
 ## Clone this repo
 The easiest way to make presentations for TPAC will be to just clone a repo (like this one) and then make your changes in GitHub. This way it can be better shared with others before/durring/after the event. 
 
