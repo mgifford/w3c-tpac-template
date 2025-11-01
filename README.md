@@ -11,3 +11,6 @@ The easiest way to make presentations for TPAC will be to just clone a repo (lik
 
 ## GitHub Pages
 GitHub Pages makes the hosting easy. This of course can all be served locally too, as it is just HTML. 
+
+## Questions
+I don't know what the difference is between the [W3C's b6+](https://www.w3.org/Talks/Tools/b6plus/) and [Shower](https://shwr.me/), or why one would use one or the other. 
