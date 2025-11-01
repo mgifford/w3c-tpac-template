@@ -1,5 +1,5 @@
 # W3C TPAC Template
-Unsure why this isn't in the W3C Repo. I've copied the [zip file from the Template page](https://www.w3.org/2025/Talks/TPAC/Templates/) to here so that it is easier to track.
+Unsure why this isn't in the W3C Repo. I've copied the [zip file from the Template page](https://www.w3.org/2025/Talks/TPAC/Templates/) to here so that it is easier to track. It can also be found on [GitHub in a WebView-CG subdirectory](https://github.com/WebView-CG/tpac/tree/main/TPAC-2025).
 
 ## My copy of the template
 [Overview.html](https://mgifford.github.io/w3c-tpac-template/Templates/Overview.html)
